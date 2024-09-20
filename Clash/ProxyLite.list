@@ -2,9 +2,22 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,elgiganten.se
+DOMAIN-SUFFIX,elkjop.no
+DOMAIN-SUFFIX,elgiganten.dk
+DOMAIN-SUFFIX,gigantti.fi
+DOMAIN-SUFFIX,bigbang.si
+DOMAIN-SUFFIX,freshdesk.com
+DOMAIN-SUFFIX,mediamarkt.de
+DOMAIN-SUFFIX,carrefour.es
+DOMAIN-SUFFIX,aukro.cz
+DOMAIN-SUFFIX,klarna.com
+DOMAIN-SUFFIX,atlassian.net
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,joom
+DOMAIN-KEYWORD,github
+DOMAIN-KEYWORD,atlassian
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
