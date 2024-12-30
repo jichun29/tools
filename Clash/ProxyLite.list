@@ -1,7 +1,6 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,elgiganten.se
 DOMAIN-SUFFIX,elkjop.no
 DOMAIN-SUFFIX,elgiganten.dk
@@ -13,11 +12,33 @@ DOMAIN-SUFFIX,carrefour.es
 DOMAIN-SUFFIX,aukro.cz
 DOMAIN-SUFFIX,klarna.com
 DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,andorratelecom.ad
+DOMAIN-SUFFIX,elgiganten.se
+DOMAIN-SUFFIX,elkjop.no
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,elgiganten.dk
+DOMAIN-SUFFIX,gigantti.fi
+DOMAIN-SUFFIX,mediamarkt.de
+DOMAIN-SUFFIX,aukro.cz
+DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,rutracker.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,joom
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,atlassian
+DOMAIN-KEYWORD,docker
+DOMAIN-KEYWORD,rakuten
+DOMAIN-KEYWORD,allegro
+DOMAIN-KEYWORD,inf
+DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,mxwljsq
+DOMAIN-KEYWORD,adyen
+DOMAIN-KEYWORD,juni
+DOMAIN-KEYWORD,tag
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,atlassian
+DOMAIN-KEYWORD,mirakl
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
