@@ -6,9 +6,9 @@
 注册地址：https://www.rainyun.com
 用途：自动签到赚积分，积分可提现，也可在商城购买虚拟主机或云服务等
 环境变量：共有两个环境变量
-
 yyqd 账户与密码用&隔开，多账户用#隔开
 VERIFY_TOKEN 写滑块的token
+滑块注册获取token:http://www.gxfc-s4.com
 定时：建议每天执行一次
 """
 
