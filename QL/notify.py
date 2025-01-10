@@ -72,7 +72,7 @@ push_config = {
     'CHAT_URL': '',                     # synology chat url
     'CHAT_TOKEN': '',                   # synology chat token
 
-    'PUSH_PLUS_TOKEN': '5df9164cc3dc4ef78e8df00360f3ea1d',              # push+ 微信推送的用户令牌
+    'PUSH_PLUS_TOKEN': '',              # push+ 微信推送的用户令牌
     'PUSH_PLUS_USER': '',               # push+ 微信推送的群组编码
 
     'WE_PLUS_BOT_TOKEN': '',            # 微加机器人的用户令牌
